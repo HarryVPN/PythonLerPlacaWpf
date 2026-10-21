@@ -1,0 +1,38 @@
+# === Python (Arquivos temporários e compilados) ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# === Pesos da IA e Modelos (Arquivos muito pesados) ===
+# Evita subir a pasta 'runs' criada pelo YOLO durante o treino/detecção
+runs/
+*.pt
+*.onnx
+*.engine
+
+# === Imagens Temporárias e Resultados do OpenCV ===
+# Evita salvar fotos que seu script gera localmente
+temp_ocr_*.jpg
+PP-*.jpg
+# Se a pasta onde você salva as fotos oficiais estiver na raiz do projeto:
+FotosPlacas/
+
+# === IDEs e Editores ===
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# === Sistema Operacional ===
+.DS_Store
+Thumbs.db

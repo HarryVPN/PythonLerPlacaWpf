@@ -1,0 +1,5 @@
+train: ./meu_dataset/train/images
+val: ./meu_dataset/valid/images
+
+nc: 1
+names: ['license_plate']

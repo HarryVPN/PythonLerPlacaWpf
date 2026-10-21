@@ -1,0 +1,26 @@
+{
+  "leitor_placas.py": {
+    "mtime": 1786020440.3743281,
+    "seen": 1790259613.543698,
+    "ast_hash": "0052a30b769c83940b53a0be92bd4a63",
+    "semantic_hash": "0052a30b769c83940b53a0be92bd4a63"
+  },
+  "leitor_placas_onnx.py": {
+    "mtime": 1790189849.156365,
+    "seen": 1790259613.543698,
+    "ast_hash": "4d2517797f14574e0bf63f6608174bd4",
+    "semantic_hash": "4d2517797f14574e0bf63f6608174bd4"
+  },
+  "observabilidade.py": {
+    "mtime": 1790189758.0004172,
+    "seen": 1790259613.543698,
+    "ast_hash": "c942ee85e8d41e4b0b9d73e205b10b53",
+    "semantic_hash": "c942ee85e8d41e4b0b9d73e205b10b53"
+  },
+  "test_observabilidade.py": {
+    "mtime": 1790189843.1204994,
+    "seen": 1790259613.543698,
+    "ast_hash": "f33234d51ff77be05827f857deebd4ad",
+    "semantic_hash": "f33234d51ff77be05827f857deebd4ad"
+  }
+}
